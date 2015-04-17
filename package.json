@@ -1,8 +1,8 @@
 {
   "name": "gino",
   "version": "0.0.1",
-  "description": "Grid In NOde.js",
-  "main": "lib/gino_server.js",
+  "description": "Gadgets In NOde.js",
+  "main": "./lib/ginoS",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +10,19 @@
     "type": "git",
     "url": "https://github.com/esciox/gino.git"
   },
-  "author": "Alessandro Esciana",
+  "author": {
+    "name": "Alessandro Esciana"
+  },
   "license": "GPL2",
   "bugs": {
     "url": "https://github.com/esciox/gino/issues"
   },
-  "homepage": "https://github.com/esciox/gino"
+  "homepage": "https://github.com/esciox/gino",
+  "gitHead": "9257c312e2a8dcf0e072c03d313e05e2c026b6d8",
+  "readme": "# gino\nGrid In NOde.js\n",
+  "readmeFilename": "README.md",
+  "_id": "gino@0.0.1",
+  "_shasum": "822b8349afa32b16bd953176635b18f72909f3ba",
+  "_from": "../../../../tmp/npm-13517-f2c42524/git-cache-65d39a5ad882/9257c312e2a8dcf0e072c03d313e05e2c026b6d8",
+  "_resolved": "git://github.com/esciox/gino.git#9257c312e2a8dcf0e072c03d313e05e2c026b6d8"
 }
